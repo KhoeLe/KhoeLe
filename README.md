@@ -27,8 +27,6 @@ I'm passionate about using cutting-edge technologies to create optimized solutio
 - Troubleshooting and problem-solving
 - Business process optimization
 - Merchant delivery service integration
-- Agile project management
-- Data analytics and visualization
 
 ## Education
 - Bachelor's degree in Computer Science, Ho Chi Minh City University of Technology (HUTECH)
