@@ -32,7 +32,7 @@ I'm passionate about using cutting-edge technologies to create optimized solutio
 - Bachelor's degree in Computer Science, Ho Chi Minh City University of Technology.
 
 ## Projects
-- **OQM Conversion, 2022:** Led the conversion of an existing PHP codebase to a modern React and NestJS TypeScript architecture, improving system performance and scalability. Implemented Rest APIs, Redux, and Tailwindcss to create a modern, intuitive user interface and improve overall user experience.  
+- **OQM Conversion, 2022:** Led the conversion of an existing PHP codebase to a modern React and NestJS TypeScript architecture, improving system performance and scalability. Implemented Rest APIs, Redux, and Tailwindcss to create a modern, intuitive user interface and improve overall user experience.         
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
