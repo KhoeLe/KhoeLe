@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Hi there! 👋 I'm Khoe Le, a software engineer.
 ## About Me
 I'm passionate about using cutting-edge technologies to create optimized solutions that improve customer experiences and streamline operations. I have expertise in technical systems integration, RESTful API design, and merchant delivery service integration. I'm highly skilled in using industry-specific technologies such as JavaScript, React, Node.js, and AWS. My ability to troubleshoot and problem-solve has been instrumental in resolving complex technical issues.
