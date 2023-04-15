@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋 I'm Khoe Le, a software engineer.
 ## About Me
-I'm passionate about using cutting-edge technologies to create optimized solutions that improve customer experiences and streamline operations. I have expertise in technical systems integration, RESTful API design, and merchant delivery service integration. I'm highly skilled in using industry-specific technologies such as JavaScript, React, Node.js, and AWS. My ability to troubleshoot and problem-solve has been instrumental in resolving complex technical issues.
+I'm a passionate software engineer with expertise in technical systems integration, RESTful API design, and merchant delivery service integration. My passion for using cutting-edge technologies to create optimized solutions that improve customer experiences and streamline operations has made me proficient in using industry-specific technologies such as JavaScript, React, Node.js, and AWS.
+
+With two years of experience in the field, I have honed my skills to become a highly adaptable and collaborative team player who thrives in fast-paced environments. My solid problem-solving skills have been instrumental in resolving complex technical issues. I am passionate about staying up-to- date with the latest industry trends and best practices, and I continuously strive to improve my skills and knowledge to deliver exceptional results.
 
 ## Skills
 - JavaScript, React, Node.js, and Express development.
