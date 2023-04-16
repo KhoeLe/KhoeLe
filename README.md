@@ -30,7 +30,7 @@ With two years of experience in the field, I have honed my skills to become a hi
 - Merchant delivery service integration.
 
 ## Education
-- Bachelor's degree in Computer Science, Ho Chi Minh City University of Technology.
+- Bachelor's degree in Technology, Software Engineering, Ho Chi Minh City University of Technology.
 
 ## Projects
 - **OQM Conversion, 2022:** Led the conversion of an existing PHP codebase to a modern React and NestJS TypeScript architecture, improving system performance and scalability. Implemented Rest APIs, Redux, and Tailwindcss to create a modern, intuitive user interface and improve overall user experience.     
