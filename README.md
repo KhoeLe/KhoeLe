@@ -37,6 +37,7 @@ With two years of experience in the field, I have honed my skills to become a hi
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
